@@ -7,4 +7,3 @@ before_install:
  
 script : 
  - docker run varund2805/docker-react npm run test -- --coverage
- 
